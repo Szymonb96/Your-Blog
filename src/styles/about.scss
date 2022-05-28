@@ -1,0 +1,32 @@
+.about-container {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1400px;
+
+    img {
+      width: 600px;
+    }
+
+  .about {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+
+      .about-title {
+        font-family: "Lora", serif;
+        color: #999999;
+        font-size: 45px;
+      }
+
+    .about-content {
+      font-family: "Varela Round", Arial, Helvetica, sans-serif;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: 24px;
+      color: #444444;
+      margin-top: 20px;
+    }
+  }
+}

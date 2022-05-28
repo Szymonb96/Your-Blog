@@ -1,0 +1,34 @@
+@import "reset.scss";
+@import "header.scss";
+@import "addpost";
+@import "posts";
+@import "about";
+@import "posts-list";
+@import "Login";
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100;400;700&family=Lora&family=Varela+Round&display=swap');
+
+//font-family: 'Josefin Sans', sans-serif;
+//font-family: 'Lora', serif;
+//font-family: 'Varela Round', sans-serif;
+
+$logo--font: 'Permanent Marker', cursive;
+$main--font: 'Roboto', sans-serif;
+
+
+body {
+  color: #333;
+}
+
+.container {
+  margin-top: 60px;
+  width: 1400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

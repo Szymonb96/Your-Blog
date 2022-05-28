@@ -1,0 +1,106 @@
+
+
+.add-post-container {
+  margin-top: 60px;
+  border: 1px #333 solid;
+  width: 600px;
+  margin-bottom: 60px;
+}
+
+.title {
+  font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  color: #333;
+}
+
+.warning {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.login-page {
+  color: #000;
+  font-size: 30px;
+  text-decoration: none;
+  margin-top: 15px;
+  font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+    input[name="title"], input[name="author"], input[name="img"] {
+      border: none;
+      background: none;
+      color: #333;
+      font-size: 30px;
+      width: 500px;
+      height: 100px;
+      padding-left: 10px;
+    }
+
+  input[name="title"]::-webkit-input-placeholder {
+    color: #333;
+    padding-left: 10px;
+    font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+    opacity: 0.5;
+    font-size: 30px;
+  }
+
+  input[name="img"] {
+    font-size: 20px;
+    height: 70px;
+  }
+
+  input[name="author"]::-webkit-input-placeholder {
+    color: #333;
+    padding-left: 10px;
+    font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+    opacity: 0.5;
+    font-size: 30px;
+  }
+
+  textarea {
+    max-width: 500px;
+    min-width: 500px;
+    height: 300px;
+    background: none;
+    border: 1px #333 solid;
+    margin-bottom: 20px;
+    color: #333;
+    font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 20px;
+  }
+
+  textarea::-webkit-input-placeholder {
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #333;
+    font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+    opacity: 0.5;
+    font-size: 30px;
+  }
+
+  .send-button {
+    align-self: flex-end;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+
+      input {
+        width: 100px;
+        height: 30px;
+        background: none;
+        border: #333 1px solid;
+        color: #333;
+        cursor: pointer;
+      }
+  }
+}

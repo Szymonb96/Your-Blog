@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "title": "Title",
+      "author": "Szymon",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem. Cursus mattis molestie a iaculis at erat. Elementum nisi quis eleifend quam adipiscing. Sit amet risus nullam eget felis eget nunc lobortis mattis. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Viverra nam libero justo laoreet sit amet cursus. Enim praesent elementum facilisis leo vel fringilla est ullamcorper. Est ante in nibh mauris cursus mattis molestie. Amet risus nullam eget felis eget nunc. Mauris pharetra et ultrices neque ornare aenean euismod elementum. Eget lorem dolor sed viverra ipsum nunc. Eget gravida cum sociis natoque penatibus et magnis dis parturient. In vitae turpis massa sed elementum tempus egestas sed.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Calico_tabby_cat_-_Savannah.jpg/1200px-Calico_tabby_cat_-_Savannah.jpg",
+      "date": "28.05.2022 12:33:50",
+      "id": 1
+    },
+    {
+      "title": "New post from me",
+      "author": "Magdalena",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem. Cursus mattis molestie a iaculis at erat. Elementum nisi quis eleifend quam adipiscing. Sit amet risus nullam eget felis eget nunc lobortis mattis. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Viverra nam libero justo laoreet sit amet cursus. Enim praesent elementum facilisis leo vel fringilla est ullamcorper. Est ante in nibh mauris cursus mattis molestie. Amet risus nullam eget felis eget nunc. Mauris pharetra et ultrices neque ornare aenean euismod elementum. Eget lorem dolor sed viverra ipsum nunc. Eget gravida cum sociis natoque penatibus et magnis dis parturient. In vitae turpis massa sed elementum tempus egestas sed.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrOCUC6YrB7UoMLAJ-qG3yTNHLl-5MfTMjW2gtD21xX9z8j9BMm1Ypce0b_6awoVegJ8E&usqp=CAU",
+      "date": "28.05.2022 12:40:44",
+      "id": 2
+    },
+    {
+      "title": "Lorem ipsum",
+      "author": "Szymon",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem. Cursus mattis molestie a iaculis at erat. Elementum nisi quis eleifend quam adipiscing. Sit amet risus nullam eget felis eget nunc lobortis mattis. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Viverra nam libero justo laoreet sit amet cursus. Enim praesent elementum facilisis leo vel fringilla est ullamcorper. Est ante in nibh mauris cursus mattis molestie. Amet risus nullam eget felis eget nunc. Mauris pharetra et ultrices neque ornare aenean euismod elementum. Eget lorem dolor sed viverra ipsum nunc. Eget gravida cum sociis natoque penatibus et magnis dis parturient. In vitae turpis massa sed elementum tempus egestas sed.",
+      "img": "https://www.zoo-mar.pl/wp-content/uploads/2019/10/dog-niemiecki.jpg",
+      "date": "28.05.2022 13:32:28",
+      "id": 3
+    },
+    {
+      "title": "Lorem ipsum",
+      "author": "Szymon",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem. Cursus mattis molestie a iaculis at erat. Elementum nisi quis eleifend quam adipiscing. Sit amet risus nullam eget felis eget nunc lobortis mattis. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras. Viverra nam libero justo laoreet sit amet cursus. Enim praesent elementum facilisis leo vel fringilla est ullamcorper. Est ante in nibh mauris cursus mattis molestie. Amet risus nullam eget felis eget nunc. Mauris pharetra et ultrices neque ornare aenean euismod elementum. Eget lorem dolor sed viverra ipsum nunc. Eget gravida cum sociis natoque penatibus et magnis dis parturient. In vitae turpis massa sed elementum tempus egestas sed.",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/840x460/78809294.jpg?k=cf850d507a9671cf7ff85d598435ea329a28cd4f1b1abc25c1892c91156d36ad&o=",
+      "date": "28.05.2022 13:34:19",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user": "User",
+      "password": "admin"
+    }
+  ]
+}

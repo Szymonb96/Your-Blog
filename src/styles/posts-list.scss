@@ -1,0 +1,35 @@
+.list-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.element-container {
+  width: 700px;
+  border: 1px solid black;
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  border-radius: 30px;
+}
+
+.top-bar {
+  width: 600px;
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 30px;
+  font-family: "Varela Round", Arial, Helvetica, sans-serif;
+    div {
+      flex-grow: 1;
+    }
+}
+
+.post-element {
+  font-family: "Varela Round", Arial, Helvetica, sans-serif;
+  display: flex;
+  align-items: center;
+  padding: 10px 0;
+  width: 600px;
+  justify-content: space-between;
+}
