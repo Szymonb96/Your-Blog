@@ -1,10 +1,9 @@
-# your-blog
-My first React App
+## Setup
+To run this project, install it locally using npm:
 
-How to start:
-git clone https://github.com/Szymonb96/your-blog.git
-npm i
-Then npm start
+$ git clone https://github.com/Szymonb96/your-blog.git
+$ npm install
+$ npm start
 
-App is using json server database
-To start: json-server --watch db.json --port 4000
+$ App is using json server database
+$ To run: json-server --watch.db --port 4000
