@@ -1,3 +1,6 @@
+# Blog app project
+
+
 ## Setup
 To run this project, install it locally using npm:
 
@@ -8,5 +11,4 @@ $ npm install
 $ npm start
 ```
 
-App is using json server database
-To run: json-server --watch.db --port 4000
+App is using json server database. To run server json-server --watch db.json --port 4000
