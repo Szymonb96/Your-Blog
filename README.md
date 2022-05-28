@@ -3,6 +3,7 @@ To run this project, install it locally using npm:
 
 ```
 $ git clone https://github.com/Szymonb96/your-blog.git
+$ cd your-blog
 $ npm install
 $ npm start
 ```
